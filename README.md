@@ -47,7 +47,7 @@ This repository contains my solutions to the assignments of the Introduction to 
 ## Assignment 4 
 
 - [Theoretical Assignment](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
-  - [4.1. SVM with multiple classes](./Assignment%204/Assignment%203%20-%20Solution%20-%20Lior%20Erenreich.pdf)
+  - [4.1. SVM with multiple classes](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
   - [4.2. Expressivity of ReLU networks](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
   - [4.3. Soft SVM with ℓ2 penalty](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
   - [4.4. Gradient of cross-entropy loss over softmax](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)

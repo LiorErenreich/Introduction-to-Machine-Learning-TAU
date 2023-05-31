@@ -6,7 +6,7 @@ This repository contains my solutions to the assignments of the Introduction to 
 - [Assignment 1](./Assignment%201)
 - [Assignment 2](./Assignment%202)
 - [Assignment 3](./Assignment%203)
-- Assignment 4 (Coming soon)
+- [Assignment 4](./Assignment%204)
 - Assignment 5 (Coming soon)
 - Assignment 6 (Coming soon)
 
@@ -44,10 +44,21 @@ This repository contains my solutions to the assignments of the Introduction to 
   - [3 (a) SGD for Hinge loss](./Assignment%203/sgd.py)
   - [3 (b) SGD for log-loss](./Assignment%203/sgd.py)
 
-## Assignment 4 (Coming soon)
+## Assignment 4 
+
+- [Theoretical Assignment](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
+  - [4.1. SVM with multiple classes](./Assignment%204/Assignment%203%20-%20Solution%20-%20Lior%20Erenreich.pdf)
+  - [4.2. Expressivity of ReLU networks](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
+  - [4.3. Soft SVM with ℓ2 penalty](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
+  - [4.4. Gradient of cross-entropy loss over softmax](./Assignment%204/Assignment%204%20-%20Solution%20-%20Lior%20Erenreich.pdf)
+
+- [Programming Assignment](./Assignment%204/Assignment%204.pdf)
+  - [4 (a) Neural Networks](./Assignment%204/backprop_main.py)
+  - [4 (b) Training a deep Convolutional Neural Network](./Assignment%204/alexnet.ipynb)
+
 
 ## Assignment 5 (Coming soon)
 
 ## Assignment 6 (Coming soon)
 
-Please note that assignments 4, 5, and 6 will be added soon.
+Please note that assignments 5 and 6 will be added soon.

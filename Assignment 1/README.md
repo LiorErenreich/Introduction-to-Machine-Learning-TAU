@@ -12,9 +12,9 @@ The directory structure for Assignment 1 is as follows:
 
 ## Instructions for Programming Part
 
-The programming part of Assignment 1 consists of two questions. Here's a brief summary of each question:
+The programming part of Assignment 1 consists of two questions. **Here's a brief summary of each question**:
 
-### Question 1: Visualizing the Hoeffding bound (10 pts)
+### Question 1: Visualizing the Hoeffding bound
 
 (a) Generate an N × n matrix of samples from the Bernoulli(1/2) distribution using numpy. Calculate the empirical mean `¯Xi` for each row `i`, where `N = 200000` and `n = 20`.
 
@@ -22,7 +22,7 @@ The programming part of Assignment 1 consists of two questions. Here's a brief s
 
 (c) Add the Hoeffding bound of that probability as a function of `ϵ` to the plot.
 
-### Question 2: Nearest Neighbor (20 pts)
+### Question 2: Nearest Neighbor
 
 In this question, you will analyze the performance of the Nearest Neighbor (NN) algorithm on the MNIST dataset.
 

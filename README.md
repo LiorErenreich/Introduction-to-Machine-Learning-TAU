@@ -7,8 +7,6 @@ This repository contains my solutions to the assignments of the Introduction to 
 - [Assignment 2](./Assignment%202)
 - [Assignment 3](./Assignment%203)
 - [Assignment 4](./Assignment%204)
-- Assignment 5 (Coming soon)
-- Assignment 6 (Coming soon)
 
 ## Assignment 1
 
@@ -56,9 +54,3 @@ This repository contains my solutions to the assignments of the Introduction to 
   - [4 (a) Neural Networks](./Assignment%204/backprop_main.py)
   - [4 (b) Training a deep Convolutional Neural Network](./Assignment%204/alexnet.ipynb)
 
-
-## Assignment 5 (Coming soon)
-
-## Assignment 6 (Coming soon)
-
-Please note that assignments 5 and 6 will be added soon.
